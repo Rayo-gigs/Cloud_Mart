@@ -1,0 +1,48 @@
+#main{
+    display: flex;
+margin-top: 20px;
+margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+#division\ 1{
+
+    width: 50%;
+    background-color: #00bcd4;
+    color: white;
+text-align: center;
+    align-content: center;
+
+}
+
+#division\ 2{
+    background-color: white;
+    width: 50%;
+    padding: 30px;
+}
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+input[type=text],input[type=email],
+input[type=tel],textarea{
+    width: 100%;
+
+
+}
+button{
+
+    background-color: #0db6c5;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #6a11cb;
+
+
+}
